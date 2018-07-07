@@ -1,0 +1,8 @@
+.btn {
+    margin-right: 5px;
+}
+
+.todoAsDone {
+    text-decoration: line-through;
+    color: grey
+}
